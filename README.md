@@ -4,6 +4,26 @@ Forked by Pactio to serve as QA test
 
 > If you are running this on your own machine, it is probably wise to allow for 10 minutes for setup. It should be as simple as: 'yarn' followed by 'yarn dev'. But Chromium install might take a few minutes depending on your OS.
 
+### Setup and run
+
+```shell
+yarn install
+yarn dev
+yarn test
+```
+
+### Tasks
+Your task is to add tests for the user settings page (http://localhost:3000/user/settings). Suggestions:
+- [] Does the page render?
+- [] Do the errors work?
+- [] Can the fields be updated?
+- [] What other tests might you suggest? (on this page or otherwise)
+
+
+Original repo below in case it proves useful:
+
+---
+
 <p align="center">
 A payment application to demonstrate <strong>real-world</strong> usage of <a href="https://cypress.io">Cypress</a> testing methods, patterns, and workflows.
 </p>
