@@ -14,10 +14,10 @@ yarn test
 
 ### Tasks
 Your task is to add tests for the user settings page (http://localhost:3000/user/settings). Suggestions:
-- [] Does the page render?
-- [] Do the errors work?
-- [] Can the fields be updated?
-- [] What other tests might you suggest? (on this page or otherwise)
+- [ ] Does the page render?
+- [ ] Do the errors work?
+- [ ] Can the fields be updated?
+- [ ] What other tests might you suggest? (on this page or otherwise)
 
 
 Original repo below in case it proves useful:
