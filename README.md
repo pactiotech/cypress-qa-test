@@ -1,30 +1,8 @@
 <p align="center">
-  <img alt="Cypress Real World App Logo" src="./src/svgs/rwa-logo.svg" />
+Forked by Pactio to serve as QA test
 </p>
 
-<p align="center">
-  <a href="https://cypress.io">
-    <img width="140" alt="Cypress Logo" src="./src/svgs/built-by-cypress.svg" />
-    </a>
-</p>
-
-<p align="center">
-   <a href="https://dashboard.cypress.io/projects/7s5okt/runs">
-    <img src="https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/7s5okt/develop&style=flat&logo=cypress" />
-  </a>
-
-  <a href="https://codecov.io/gh/cypress-io/cypress-realworld-app">
-    <img src="https://codecov.io/gh/cypress-io/cypress-realworld-app/branch/develop/graph/badge.svg" />
-  </a>
-
-  <a href="https://percy.io/cypress-io/cypress-realworld-app">
-    <img src="https://percy.io/static/images/percy-badge.svg" />
-  </a>
-  
-   <a href="#contributors-">
-    <img src="https://img.shields.io/badge/all_contributors-6-green.svg?style=flat" />
-  </a>
-</p>
+> If you are running this on your own machine, it is probably wise to allow for 10 minutes for setup. It should be as simple as: 'yarn' followed by 'yarn dev'. But Chromium install might take a few minutes depending on your OS.
 
 <p align="center">
 A payment application to demonstrate <strong>real-world</strong> usage of <a href="https://cypress.io">Cypress</a> testing methods, patterns, and workflows.
